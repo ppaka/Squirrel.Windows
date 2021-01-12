@@ -11,7 +11,7 @@ update.exe를 정상적으로 찾을 수 있습니다.
 ## Squirrel 빌드하기
 
 ```sh
-git clone --recursive https://github.com/squirrel/squirrel.windows
+git clone --recursive https://github.com/ppaka/squirrel.windows
 cd squirrel.windows
 .\.NuGet\NuGet.exe restore
 msbuild /p:Configuration=Release
