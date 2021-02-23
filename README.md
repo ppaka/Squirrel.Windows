@@ -17,15 +17,6 @@ cd squirrel.windows
 msbuild /p:Configuration=Release
 ```
 
-## License and Usage
+This is an unofficial fork of Squirrel.Windows.
 
-See [COPYING](COPYING) for details on copyright and usage of the Squirrel.Windows software.
-
-
-
-
-
-
-
-
-
+Modified UpdateManager.cs for Unity's Mono scripting backend.
